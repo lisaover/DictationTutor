@@ -5,7 +5,7 @@ Duquesne University Software Engineering Project Spring 2014
 
 The Dictation Tutor application was a group project for a software engineering class. Our team’s goal was to create and deliver a java application to enable English language learners to practice writing from oral prompts in preparation for the written portion of the citizenship test.
 
-![Main Menu](images/MainMenu-s.png)
+![Main Menu](images/MainMenu.png)
 
 ### My Role
 
@@ -18,35 +18,25 @@ The written citizenship writing test is comprised of three sections: writing voc
 The Guided Practice section allows students to hear and practice typing vocabulary words and sentences where they can see the correct answer if they need to. The Practice Test section allows students to practice one portion of the test at a time with no limit on the number of words/questions. The Simulated Test section simulates the actual test by choosing a preselected number of random words/sentences from each section. This section also uses an edit distance algorithm to provide instant feedback on the screen and documented feedback in the form of a downloadable spreadsheet.
 
 ### Guided Practice and Practice Test Screens
-![Dictation Tutor Guided Practice](images/Guided-Practice-s.png)
+![Dictation Tutor Guided Practice](images/Guided-Practice.png)
 
-![Dictation Tutor Q & A Practice Test](images/Q-n-A-Practice-s.png)
+![Dictation Tutor Q & A Practice Test](images/Q-n-A-Practice.png)
 
-![Dictation Tutor Sentence Scramble Practice Test](images/Sentence-Scramble-Practice-s.png)
+![Dictation Tutor Sentence Scramble Practice Test](images/Sentence-Scramble-Practice.png)
 
-![Dictation Tutor Vocabulary Practice Test](images/Vocabulary-Practice-s.png)
-
-            <img src="images/Guided-Practice-s.png" alt="Dictation Tutor Guided Practice" />
-            <img src="images/Q-n-A-Practice-s.png" alt="Dictation Tutor Q & A Practice Test" />
-            <img src="images/Sentence-Scramble-Practice-s.png" alt="Dictation Tutor Sentence Scramble Practice Test" />
-            <img src="images/Vocabulary-Practice-s.png" alt="Dictation Tutor Vocabulary Practice Test" />
+![Dictation Tutor Vocabulary Practice Test](images/Vocabulary-Practice.png)
             
 ### Test and Feedback Screens
-![Dictation Tutor Q & A Test](images/Q-n-A-Test-s.png)
+![Dictation Tutor Test Settings](images/Settings.png)
 
-![Dictation Tutor Q & A Feedback](images/Q-n-A-Feedback-s.png)
+![Dictation Tutor Q & A Test](images/Q-n-A-Test.png)
 
-![Dictation Tutor Sentence Scramble Test](images/Sentence-Scramble-Test-s.png)
+![Dictation Tutor Q & A Feedback](images/Q-n-A-Feedback.png)
 
-![Dictation Tutor Sentence Scramble Feedback](images/Sentence-Scramble-Feedback-s.png)
+![Dictation Tutor Sentence Scramble Test](images/Sentence-Scramble-Test.png)
 
-![Dictation Tutor Vocabulary Test](images/Vocabulary-Test-s.png)
+![Dictation Tutor Sentence Scramble Feedback](images/Sentence-Scramble-Feedback.png)
 
-![Dictation Tutor Vocabulary Feedback](images/Vocabulary-Feedback-s.png)
+![Dictation Tutor Vocabulary Test](images/Vocabulary-Test.png)
 
-            <img src="portfolio_cpma/programming/dictation-tutor/Q-n-A-Test-s.png" alt="Dictation Tutor Q & A Test" />
-            <img src="portfolio_cpma/programming/dictation-tutor/Q-n-A-Feedback-s.png" alt="Dictation Tutor Q & A Feedback" />
-            <img src="portfolio_cpma/programming/dictation-tutor/Sentence-Scramble-Test-s.png" alt="Dictation Tutor Sentence Scramble Test" />
-            <img src="portfolio_cpma/programming/dictation-tutor/Sentence-Scramble-Feedback-s.png" alt="Dictation Tutor Sentence Scramble Feedback" />
-            <img src="portfolio_cpma/programming/dictation-tutor/Vocabulary-Test-s.png" alt="Dictation Tutor Vocabulary Test" />
-            <img src="portfolio_cpma/programming/dictation-tutor/Vocabulary-Feedback-s.png" alt="Dictation Tutor Vocabulary Feedback" />
+![Dictation Tutor Vocabulary Feedback](images/Vocabulary-Feedback.png)
